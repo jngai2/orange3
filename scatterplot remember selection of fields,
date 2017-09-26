@@ -1,0 +1,3 @@
+after closing project, move to another project other scatterplot with similar fieldname, those plots used last selection.
+
+Even switching between different scatterplot within a project, sometime, the selected fields at design time was changed to the last used.
